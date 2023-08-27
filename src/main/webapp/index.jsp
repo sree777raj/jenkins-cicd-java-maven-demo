@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Hello world from Jsp!</h2>
+<h2>Hello world from sreenath</h2>
 </body>
 </html>
